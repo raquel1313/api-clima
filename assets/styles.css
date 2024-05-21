@@ -1,0 +1,12 @@
+body{
+    background-color: lightpink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    max-width: 600px;
+    margin-top: 50px;
+}
+
+.card-body{
+    background-color: rgba(210, 189, 223, 0.897);
+}
